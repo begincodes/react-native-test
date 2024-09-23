@@ -19,7 +19,7 @@ O Expo mostrará alguns erros quando você tentar executá-lo em um emulador ou 
 * Crie um CRUD em C# utilizando .NET Core e APIs para gerenciar os dados da lista de TODO.
 * O projeto deve ser entregue em dois repositórios Git criados por você com os nomes: `todolist-app` e `todolist-api`.
 * O APK deve estar consumindo a API, que deve ser hospedada no Free Tier da Azure.
-* O banco de dados utilizado deve ser SQL. Se necessário, solicite a criação de uma instância do banco de dados no SQL.
+* O banco de dados utilizado deve ser SQL. Se necessário, solicite a criação de uma instância do banco de dados no SQL para o recrutado.
 
 _Qualquer melhoria de layout ou performance é bem-vinda, fique livre para realizar quaisquer outras alterações. Caso não consiga realizar algumas das tasks, explique o motivo ao final deste arquivo (README.md) para que possamos entender o que ocorreu._
 
